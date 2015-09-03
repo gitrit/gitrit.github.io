@@ -1,0 +1,24 @@
+---
+layout: post
+title:  "Week 2 - Mocking and Prototyping"
+date:   2015-09-03
+categories: update
+---
+
+This week was spent fulfilling the [Milestone 1](https://github.com/gitrit/pending/wiki/Project-Roadmap) requirements, discussing design considerations, and building up the backend. 
+
+## All
+* Met to discuss design problems
+* 
+
+## Aaron
+* Completed Gruntfile configurations
+* Revamped [react-commits-graph](https://github.com/gitrit/react-commits-graph) library to replace Gitgraph.js solution.
+* Completed helper to load all commits from all branches in a GitHub repo.
+* Worked on prototype site for Milestone 1.
+
+## Ben
+* Worked on a couple design mockups for site.
+
+## Steph
+* 
