@@ -1,13 +1,13 @@
 # Site settings
-title: gitrit blog
+title: learnVCS blog
 email: 
 description: > # this means to ignore newlines until "baseurl:"
-  Development news on the gitrit version control education project for RIT.
+  Development news on the learnVCS version control education project for RIT.
 baseurl: "" # the subpath of your site, e.g. /blog/
-url: "http://yourdomain.com" # the base hostname & protocol for your site
+url: "http://www.learnversioncontrol.com" # the base hostname & protocol for your site
 # twitter_username: jekyllrb
-github_organization: gitrit 
-github_repository: learn-flow
+github_organization: learnVCS 
+github_repository: learnVCS
 
 # Build settings
 markdown: kramdown
