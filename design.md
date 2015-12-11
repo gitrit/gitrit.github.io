@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Design Documentation
-permalink: /design/
+permalink: /design
 ---
 
 #learnVCS Design Document
